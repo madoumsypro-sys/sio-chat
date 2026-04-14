@@ -1,0 +1,12 @@
+{
+  "name": "siochate6",
+  "private": true,
+  "description": "SIOCHAT — serveur Socket.IO (serveur/) + client Vue 3 (app/)",
+  "scripts": {
+    "install:all": "npm install --prefix serveur && npm install --prefix app",
+    "dev": "npm run dev --prefix app",
+    "server": "npm run start --prefix serveur",
+    "client": "npm run dev --prefix app",
+    "build:client": "npm run build --prefix app"
+  }
+}
