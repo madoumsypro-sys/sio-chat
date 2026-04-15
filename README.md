@@ -199,6 +199,36 @@ siochate6/
 
 ---
 
+Ta mission :
+Propose une solution SIMPLE et rapide à implémenter
+Montre uniquement les parties du code à modifier
+Explique chaque modification ligne par ligne
+
+IMPORTANT :
+Explication ULTRA SIMPLE
+1 ligne = 1 explication courte
+Pas de blabla
+Pas de théorie inutile
+
+Format attendu :
+
+MODIFICATION :
+(code)
+
+EXPLICATION :
+Ligne X : ...
+Ligne Y : ...
+
+COMPRÉHENSION RAPIDE :
+Pourquoi on fait ça : ...
+Ce que ça change : ...
+
+RISQUE SI JURY :
+Questions possibles : ...
+Réponses simples : ...
+
+Objectif :
+Je dois pouvoir comprendre en moins de 5 minutes et expliquer à l’oral.
 ## Questions possibles du jury
 
 **Q : Pourquoi utiliser Socket.IO plutôt que du HTTP classique ?**
